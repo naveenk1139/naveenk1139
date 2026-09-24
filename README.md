@@ -88,16 +88,16 @@
 
 🔗 **GitHub:** https://github.com/naveenk1139/U-Think
 
-* 🎓 Built a full-stack platform mapping **post-10th-to-PhD educational pathways** for Karnataka students
-* 🏫 Developed a searchable directory containing **3,500+ verified colleges and institutions** across Karnataka
-* 📚 Covered educational information across streams, course combinations and specializations
-* 🏛️ Used data sourced from official bodies including **AISHE, UGC, KEA and AICTE**
-* 📝 Implemented an entrance-exam tracker covering **JEE, NEET, KCET, CA and UPSC**
-* ⏱️ Added dynamic exam countdowns and eligibility checks
-* 🤖 Integrated **Google Gemini 2.5 Pro API** for personalized pathway and college recommendations
-* 🎯 Recommendations consider **aptitude, budget and career goals**
-* 🔐 Implemented user authentication and account management
-* ⚙️ Added configurable profile and notification settings using **React Context and Express APIs**
+* 🎓 Built a comprehensive **MERN-stack Educational Navigation Ecosystem** covering post-10th-to-PhD pathways in Karnataka.
+* 🤖 Engineered **5 advanced AI Intelligence Engines** using Google Gemini 2.5 Pro / 3.6 Flash:
+  * 🕸️ **Dependency Graph Explorer:** Interactive node-based mapping of academic prerequisites.
+  * ⚖️ **Impact Simulator:** AI tool predicting career lock/unlocks based on Subject Combinations.
+  * ⛓️ **Eligibility Chain Analyzer:** Reverse-engineers target careers down to 10th-grade steps.
+  * 🔄 **Route Switch Engine & Recovery Planner:** AI fallback strategies for academic setbacks and lateral entries.
+* 🛡️ Implemented **AI Resilience Engineering** with automated fallback mechanisms and mock-data simulators to gracefully handle `429 RESOURCE_EXHAUSTED` API rate limits.
+* 🏫 Integrated a massive structural Knowledge Graph processing data from **AISHE, UGC, KEA, and AICTE** covering 3,500+ verified colleges.
+* 📝 Developed a real-time entrance exam tracker with dynamic eligibility verification for JEE, NEET, KCET, and UPSC.
+* 🔐 Secured the platform with JWT authentication, custom Express middlewares, and encrypted MongoDB configurations.
 
 ---
 
